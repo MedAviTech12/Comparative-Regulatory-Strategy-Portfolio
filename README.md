@@ -1,4 +1,5 @@
-Comparative Regulatory Strategy Portfolio
+Comparative Regulatory Strategy Portfolio:
+
 This repository showcases my work as a B.Tech student exploring comparative regulatory strategies. 
 It includes analyses and insights gained through coursework and independent study, focusing on understanding how regulations differ across various contexts. 
 The aim is to demonstrate my growing understanding of regulatory frameworks and their strategic implications.
